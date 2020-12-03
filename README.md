@@ -16,7 +16,7 @@
 <img style="float:left" src="Wv6FAwWy.jpg" height="400px"/>  
 
 ### Talk to me (click on for visit)
-
+<div style="display:inline">
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/">
    </a>  
@@ -25,4 +25,4 @@
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
     <img src="hackerrank.jpg" width="60px" height="50px"> 
     </a>  
- 
+ </div>
