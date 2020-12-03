@@ -53,6 +53,6 @@ Ezran here. I'm a software engineer, interested in everything but my speciality 
    </a> <p>Click on for visit</p>
 
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
-    <img src="hackerrank.jpg" width="60px" height="50px">
+    <img src="hackerrank.jpg" width="60px" height="50px"> (Click on for Visit)..
     </a>
  
