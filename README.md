@@ -13,7 +13,7 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right,left"/>  ### Talk to me (click on for visit)DSFDSFDSFDSFSDFSDFSDFSDFDSFSDFSDFDSFDSFSDFSDFSDFSDFSDFSDFSDFSADFSADFSADFSDAFA highly motivated Software Engineer, developing a wide range of tools for both iOS and Android, an Electronic Engineer graduate with a 3.2 GPA from __Turkish Air Force Academy__ , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support, currently seeking long-term contract positions which will allow me to further improve my project management skills
+### Talk to me (click on for visit)
 
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="60px">
@@ -23,4 +23,8 @@
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
     <img src="hackerrank.jpg" width="60px" height="50px"> 
     </a>  
+
+
+<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right,left"/> 
+
 
