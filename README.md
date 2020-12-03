@@ -13,9 +13,7 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right,left"/>  
-
-### Talk to me (click on for visit)
+<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right,left"/>  ### Talk to me (click on for visit)DSFDSFDSFDSFSDFSDFSDFSDFDSFSDFSDFDSFDSFSDFSDFSDFSDFSDFSDFSDFSADFSADFSADFSDAF
 
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="60px">
