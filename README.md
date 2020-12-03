@@ -29,6 +29,6 @@
     </ul>  
 </div>
 
-<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right"/> 
+<img src="Wv6FAwWy.jpg" height="400px"/> 
 
 
