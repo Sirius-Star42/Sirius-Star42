@@ -2,9 +2,7 @@
 
 _Something about me:_
 
- <div class='text-justify'> 
-  A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android (<i>with React-native</i>), an Electronic Engineer graduate with a 3.2 GPA from _Turkish Air Force Academy_ , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.
- </div>
+ <div class='text-justify'> A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android (<i>with React-native</i>), an Electronic Engineer graduate with a 3.2 GPA from _Turkish Air Force Academy_ , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</div>
  
 
 ## What I'm trying to learn and improve
@@ -18,7 +16,7 @@ _Something about me:_
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-# Don't forget :
+**Don't forget :**
  > Every coder is a author
 
 <div style="display: flex;">
@@ -32,8 +30,8 @@ _Something about me:_
             </li>
             <li>
                 <button title="HackerRank" width="65px">
-                <a href="https://www.hackerrank.com/Sirius_Star" target="_blank"> </a>
-            </button>
+                    <a href="https://www.hackerrank.com/Sirius_Star" target="_blank"> </a>
+                </button>
             </li>
         </ul>  
     </div>
