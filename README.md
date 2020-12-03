@@ -1,6 +1,6 @@
 ### Hi friend 👋
 
-A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android, an Electronic Engineer graduate with a 3.2 GPA from Turkish Air Force Academy, currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support, currently seeking long-term contract positions which will allow me to further improve my project management skills
+ A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android, an Electronic Engineer graduate with a 3.2 GPA from __Turkish Air Force Academy__ , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support, currently seeking long-term contract positions which will allow me to further improve my project management skills
 
 ## What I'm trying to learn and improve
  	* Programming languages including: HTML 5, CSS, PYTHON, JAVASCRIPT, REACT-NATIVE, SQL
@@ -12,12 +12,14 @@ A highly motivated Software Engineer, developing a wide range of tools for both 
  	* SDLC (Software Development Life Cycle)
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
- 	
+
+ 	<iframe src="https://assets.pinterest.com/ext/embed.html?id=10836855340241074" height="791" width="345" frameborder="0" scrolling="no" ></iframe>
+     
 ### Talk to me   
 
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/">
-   </a>  <span>Click on for visit</span>
+   </a>  <span>  Click on for visit</span>
 
 
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
