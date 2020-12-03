@@ -13,23 +13,24 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-<div width="250px">
-    <h2>Talk to me <span>(click on for visit)</span></h2> 
-    <ul>
-        <li>
-            <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
-            <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="60px">
-            </a>  
-        </li>
-        <li>
-            <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
-            <img src="hackerrank.jpg" width="60px" height="50px"> 
-            </a>
-        </li>
-    </ul>
-     
+<div>
+    <div width="250px">
+        <h2>Talk to me <span>(click on for visit)</span></h2> 
+        <ul>
+            <li>
+                <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
+                <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="60px">
+                </a>  
+            </li>
+            <li>
+                <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
+                <img src="hackerrank.jpg" width="60px" height="50px"> 
+                </a>
+            </li>
+        </ul>  
+    </div>
+        <div>
+            <img src="Wv6FAwWy.jpg" height="400px"/> 
+        </div>
 </div>
-<img src="Wv6FAwWy.jpg" height="400px"/> 
-
-
 
