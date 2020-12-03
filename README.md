@@ -13,13 +13,13 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
- 	<iframe src="https://assets.pinterest.com/ext/embed.html?id=10836855340241074" height="791" width="345" frameborder="0" scrolling="no" ></iframe>
-     
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=10836855340241074" height="791" width="345" frameborder="0" scrolling="no" ></iframe>
+
 ### Talk to me   
 
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/">
-   </a>  <span>  Click on for visit</span>
+   </a>  <span>     Click on for visit</span>
 
 
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
