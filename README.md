@@ -53,6 +53,6 @@ Ezran here. I'm a software engineer, interested in everything but my speciality 
    </a>
 
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
-    <img src="hackerrank.jpg">
+    <img src="hackerrank.jpg" width="10px" height="10px">
     </a>
  
