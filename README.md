@@ -14,7 +14,7 @@
  	* Confident building and optimising development processes
 
 <div width="250px">
-    <h2>Talk to me <p>(click on for visit)</p></h2> 
+    <h2>Talk to me <span>(click on for visit)</span></h2> 
     <ul>
         <li>
             <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
@@ -26,9 +26,10 @@
             <img src="hackerrank.jpg" width="60px" height="50px"> 
             </a>
         </li>
-    </ul>  
+    </ul>
+    <span><img src="Wv6FAwWy.jpg" height="400px"/> </span>  
 </div>
 
-<img src="Wv6FAwWy.jpg" height="400px"/> 
+
 
 
