@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-Ezran here. I'm a software engineer, interested in everything but my speciality is mobile applications. Also working as instructor at [Kodluyoruz](https://www.kodluyoruz.org/) and [Clarusway](https://clarusway.com/) and as software engineer at [SADELABS](https://sadelabs.com/) 
+
 
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
@@ -50,9 +49,9 @@ Ezran here. I'm a software engineer, interested in everything but my speciality 
 
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/">
-   </a> <p>Click on for visit</p>
+   </a> <span>Click on for visit</span>
 
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
-    <img src="hackerrank.jpg" width="60px" height="50px"> (Click on for Visit)..
+    <img src="hackerrank.jpg" width="60px" height="50px"> <span>Click on for visit</span>
     </a>
  
