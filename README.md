@@ -13,7 +13,7 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-<div>
+<div style="display: flex;">
     <div width="250px">
         <h2>Talk to me <span>(click on for visit)</span></h2> 
         <ul>
@@ -29,7 +29,7 @@
             </li>
         </ul>  
     </div>
-        <div>
+        <div width="max-content" style="margin-left: 20px">
             <img src="Wv6FAwWy.jpg" height="400px"/> 
         </div>
 </div>
