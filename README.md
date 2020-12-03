@@ -13,8 +13,8 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-<div>
-    <h2>Talk to me <span>(click on for visit)</span></h2> 
+<div width="250px">
+    <h2>Talk to me <p>(click on for visit)</p></h2> 
     <ul>
         <li>
             <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
@@ -29,6 +29,6 @@
     </ul>  
 </div>
 
-<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right,left"/> 
+<img src="Wv6FAwWy.jpg" height="400px" ALIGN="right"/> 
 
 
