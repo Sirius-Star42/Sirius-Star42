@@ -1,5 +1,7 @@
 ### Hi friend 👋
 
+__Something about me:__
+
  A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android, an Electronic Engineer graduate with a 3.2 GPA from __Turkish Air Force Academy__ , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support, currently seeking long-term contract positions which will allow me to further improve my project management skills
 
 ## What I'm trying to learn and improve
