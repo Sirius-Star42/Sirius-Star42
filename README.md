@@ -13,7 +13,7 @@
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
 
-<img src="Wv6FAwWy.jpg"/>
+<img src="Wv6FAwWy.jpg" height="200px"/>
 
 ### Talk to me (click on for visit)
 
