@@ -21,7 +21,7 @@ _Something about me:_
 
 <div style="display: flex;">
     <div width="250px">
-        <h2>Talk to me <span><p>(click on for visit)</p></span></h2> 
+        <h2>Talk to me <span>(click on for visit)</span></h2> 
         <ul>
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
