@@ -14,7 +14,7 @@
  	* Confident building and optimising development processes
 
 <div>
-    <h2>Talk to me</h2> <span>(click on for visit)</span>
+    <h2>Talk to me <span>(click on for visit)</span></h2> 
     <ul>
         <li>
             <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
