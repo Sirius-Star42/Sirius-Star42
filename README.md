@@ -4,7 +4,6 @@ _Something about me:_
 
  <p ALIGN="justify"> A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android (<b>with React-native</b>), an Electronic Engineer graduate with a 3.2 GPA from <i>Turkish Air Force Academy</i> , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
  
-
 ## What I'm trying to learn and improve
  	* Programming languages including: HTML 5, CSS, PYTHON, JAVASCRIPT, REACT-NATIVE, SQL
  	* Developed and designed projects which was built and deployed in React-Native
@@ -15,11 +14,11 @@ _Something about me:_
  	* SDLC (Software Development Life Cycle)
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
-<hr
+<hr>
 
 **Don't forget :**
  > Every coder is a author
- 
+
 <hr>
 <div style="display: flex;">
     <div width="250px">
