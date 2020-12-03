@@ -27,9 +27,9 @@
             </a>
         </li>
     </ul>
-    <span><img src="Wv6FAwWy.jpg" height="400px"/> </span>  
+     
 </div>
-
+<img src="Wv6FAwWy.jpg" height="400px"/> 
 
 
 
