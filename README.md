@@ -15,10 +15,10 @@ _Something about me:_
  	* SDLC (Software Development Life Cycle)
  	* Visual Studio / Jupiter Lab
  	* Confident building and optimising development processes
-
+<hr>
 **Don't forget :**
  > Every coder is a author
-
+<hr>
 <div style="display: flex;">
     <div width="250px">
         <h2>Talk to me <span>(click on for visit)</span></h2> 
