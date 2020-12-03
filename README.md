@@ -49,10 +49,10 @@ Ezran here. I'm a software engineer, interested in everything but my speciality 
 ### Talk to me   
 
  * <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/">  (Click on for Visit)
    </a>
 
  *  <a href="https://www.hackerrank.com/Sirius_Star" target="_blank">
-    <img src="hackerrank.jpg" width="60px" height="50px">
+    <img src="hackerrank.jpg" width="60px" height="50px"> (Click on for Visit)
     </a>
  
