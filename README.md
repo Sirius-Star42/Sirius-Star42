@@ -17,7 +17,7 @@ _Something about me:_
 <hr>
 
 **Don't forget :**
- > Every coder is a author
+ > Every coder is an author
 
 <hr>
 <div style="display: flex;">
