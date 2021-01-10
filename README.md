@@ -22,7 +22,7 @@ _Something about me:_
 <hr>
 <div>
     <div>
-        <div width="5rem">
+        <div style="width: 400px">
           <img src="Wv6FAwWy.jpg" height="400px"/> 
         </div>
         <ul>
