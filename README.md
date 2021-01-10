@@ -35,7 +35,9 @@ _Something about me:_
                 </a>
             </li>
             <li>
-             <a href="https://sirius-star42.github.io/Hasan-DALKILIC/" target="_blank"> You can visit to my personal page</a>
+             <a href="https://sirius-star42.github.io/Hasan-DALKILIC/" target="_blank">
+                <img src="hackerrank.png" width="90px" alr="https://www.hackerrank.com/Sirius_Star">
+             </a>
             </li>
         </ul>  
     </div>
