@@ -22,9 +22,7 @@ _Something about me:_
 <hr>
 <div>
     <div>
-        <div style="width: 400px">
-          <img src="Wv6FAwWy.jpg" height="400px"/> 
-        </div>
+        <img src="Wv6FAwWy.jpg" height="400px"/> 
         <ul align="right">
             <h2>Talk to me <span>(click on for visit)</span></h2> 
             <li>
