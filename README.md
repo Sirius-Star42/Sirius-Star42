@@ -25,7 +25,7 @@ _Something about me:_
         <div style="width: 400px">
           <img src="Wv6FAwWy.jpg" height="400px"/> 
         </div>
-        <ul>
+        <ul align="right">
             <h2>Talk to me <span>(click on for visit)</span></h2> 
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
