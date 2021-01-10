@@ -20,12 +20,12 @@ _Something about me:_
  > Every coder is an author
 
 <hr>
-<div style="display: flex;">
-    <div style="display: flex">
-        <div width="max-content" style="margin-left: 20px">
+<div>
+    <div>
+        <div width="">
           <img src="Wv6FAwWy.jpg" height="400px"/> 
         </div>
-        <ul style="list-style-type: none">
+        <ul>
             <h2>Talk to me <span>(click on for visit)</span></h2> 
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
