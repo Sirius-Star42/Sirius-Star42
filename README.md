@@ -36,7 +36,7 @@ _Something about me:_
             </li>
             <li>
              <a href="https://sirius-star42.github.io/Hasan-DALKILIC/" target="_blank">
-                <img src="star.png" width="90px" alt="https://sirius-star42.github.io/Hasan-DALKILIC/">
+                <img src="star.png" width="45px" alt="https://sirius-star42.github.io/Hasan-DALKILIC/"> Personal Page
              </a>
             </li>
         </ul>  
