@@ -21,7 +21,7 @@ _Something about me:_
 
 <hr>
 <div style="display: flex;">
-    <div style="display: flex ; justify-content: space-between">
+    <div style="display: flex">
         <div width="max-content" style="margin-left: 20px">
           <img src="Wv6FAwWy.jpg" height="400px"/> 
         </div>
