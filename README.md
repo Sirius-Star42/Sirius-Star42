@@ -40,9 +40,10 @@ _Something about me:_
              </a>Personal Page
             </li>
         </ul>  
-    </div>
         <div width="max-content" style="margin-left: 20px">
             <img src="Wv6FAwWy.jpg" height="400px"/> 
         </div>
+    </div>
+        
 </div>
 
