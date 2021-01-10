@@ -22,9 +22,8 @@ _Something about me:_
 <hr>
 <div>
     <div>
-        <ul align="right" width="400px">
-        <img src="Wv6FAwWy.jpg" height="400px"/> 
-         <h2>Talk to me</h2>
+        <ul>
+            <h2>Talk to me</h2>
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
                 <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="65px">
@@ -36,11 +35,12 @@ _Something about me:_
                 </a>
             </li>
             <li>
-             <a href="https://sirius-star42.github.io/Hasan-DALKILIC/" target="_blank">
-                <img src="star.png" width="35px" alt="https://sirius-star42.github.io/Hasan-DALKILIC/"> 
-             </a>Personal Page
+                <a href="https://sirius-star42.github.io/Hasan-DALKILIC/" target="_blank">
+                   <img src="star.png" width="35px" alt="https://sirius-star42.github.io/Hasan-DALKILIC/"> 
+                </a>Personal Page
             </li>
         </ul>  
+        <img src="Wv6FAwWy.jpg" height="400px"/> 
     </div>       
 </div>
 
