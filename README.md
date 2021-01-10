@@ -24,7 +24,7 @@ _Something about me:_
     <div>
         <img src="Wv6FAwWy.jpg" height="400px"/> 
         <ul align="right" width="400px">
-            <h2>Talk to me <span>(click on for visit)</span></h2> 
+         <h2>Talk to me</h2> <span>Click to visit </span> 
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
                 <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="65px">
@@ -43,7 +43,4 @@ _Something about me:_
         </ul>  
     </div>       
 </div>
-
- * dfdfdf
- * dfdfdf
 
