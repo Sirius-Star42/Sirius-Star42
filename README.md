@@ -34,6 +34,9 @@ _Something about me:_
                     <img src="hackerrank.png" width="90px" alr="https://www.hackerrank.com/Sirius_Star">
                 </a>
             </li>
+            <li>
+             <a href="https://sirius-star42.github.io/Hasan-DALKILIC/" target="_blank"> You can visit to my personal page</a>
+            </li>
         </ul>  
     </div>
         <div width="max-content" style="margin-left: 20px">
