@@ -22,8 +22,8 @@ _Something about me:_
 <hr>
 <div style="display: flex;">
     <div width="250px">
-        <h2>Talk to me <span>(click on for visit)</span></h2> 
         <ul style="list-style-type: none">
+            <h2>Talk to me <span>(click on for visit)</span></h2> 
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
                 <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="65px">
