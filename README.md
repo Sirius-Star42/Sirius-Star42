@@ -41,7 +41,7 @@ _Something about me:_
             </li>
         </ul>  
         <img src="Wv6FAwWy.jpg" height="400px"/> 
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius-Star42&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+        <img margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius-Star42&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
     </div>       
 </div>
 
