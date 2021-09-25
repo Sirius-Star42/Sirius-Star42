@@ -7,9 +7,9 @@ _Something about me:_
 ## What I'm trying to learn and improve
  	* Programming languages including: HTML5, CSS, BOOTSTRAP PYTHON, JAVASCRIPT, REACTJS REACT-NATIVE, SQL, NODEJS, NEXTJS, FLASK(web framework)
  	* Developed and designed projects which was built and deployed in React-Native
-    * Restfull API
+  * Restfull API
  	* Redux
-  * Figma
+  * `Figma`
   * `Confluence, JIRA, Bitbucket`
  	* GIT and GITHUB 
  	* Familiar with Agile and Scrum working methods
