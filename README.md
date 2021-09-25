@@ -9,6 +9,8 @@ _Something about me:_
  	* Developed and designed projects which was built and deployed in React-Native
     * Restfull API
  	* Redux
+  * Figma
+  * `Confluence, JIRA, Bitbucket`
  	* GIT and GITHUB 
  	* Familiar with Agile and Scrum working methods
  	* SDLC (Software Development Life Cycle)
