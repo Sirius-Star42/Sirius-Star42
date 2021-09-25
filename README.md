@@ -2,10 +2,10 @@
 
 _Something about me:_
 
- <p ALIGN="justify"> A highly motivated Software Engineer, developing a wide range of tools for both iOS and Android (<b>with React-native</b>), an Electronic Engineer graduate with a 3.2 GPA from <i>Turkish Air Force Academy</i> , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
+ <p ALIGN="justify"> A highly motivated Software Engineer, developing a wide range of tools for web developing (<b>with React-native</b>), an Electronic Engineer graduate with a 3.2 GPA from <i>Turkish Air Force Academy</i> , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
  
 ## What I'm trying to learn and improve
- 	* Programming languages including: HTML5, CSS, BOOTSTRAP PYTHON, JAVASCRIPT, REACTJS REACT-NATIVE, SQL, NODEJS, FLASK(web framework)
+ 	* Programming languages including: HTML5, CSS, BOOTSTRAP PYTHON, JAVASCRIPT, REACTJS REACT-NATIVE, SQL, NODEJS, NEXTJS, FLASK(web framework)
  	* Developed and designed projects which was built and deployed in React-Native
     * Restfull API
  	* Redux
