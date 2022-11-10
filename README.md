@@ -10,9 +10,9 @@ _Something about me:_
   - Framework areas(frontend): React / Vue
   - Framework areas(backend): Node.js - Django ORM
   - Experienced in UI library:
-   - Meterial UI
-   - Ant Design
-   - Bootstrap / Vuetfy
+    - - Meterial UI
+    - - Ant Design
+    - - Bootstrap / Vuetfy
   - Competence in the microservice: Krakend Platform
   - Working with container architecture: Docker/ Docker-Compose
   - Cache Memory management: Redis
@@ -23,7 +23,7 @@ _Something about me:_
   - Basic Level in Figma
   - Restfull API
   - `Confluence, JIRA, Bitbucket`
- 	- SDLC (Software Development Life Cycle)
+  - SDLC (Software Development Life Cycle)
 <hr>
 
 **Don't forget :**
