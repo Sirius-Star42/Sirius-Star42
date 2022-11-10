@@ -2,7 +2,7 @@
 
 _Something about me:_
 
- <p ALIGN="justify"> A highly motivated Software Engineer, developing a wide range of tools for web developing, an Electronic Engineer graduate with a 3.2 GPA from <i>Turkish Air Force Academy</i> , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
+ <p ALIGN="justify"> A highly motivated Full Stack Engineer, developing a wide range of tools for backend and frontend, an Electronic Engineer graduate with a 3.2 GPA from Turkish Air Force Academy, currently resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the web app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
  
 ## What I'm trying to learn and improve
  	- Programming languages including: PYTHON, JAVASCRIPT, 
