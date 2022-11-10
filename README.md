@@ -5,17 +5,25 @@ _Something about me:_
  <p ALIGN="justify"> A highly motivated Software Engineer, developing a wide range of tools for web developing, an Electronic Engineer graduate with a 3.2 GPA from <i>Turkish Air Force Academy</i> , currently looking to resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the mobile app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
  
 ## What I'm trying to learn and improve
- 	- Programming languages including: HTML5, CSS, BOOTSTRAP PYTHON, JAVASCRIPT, REACTJS REACT-NATIVE, SQL, NODEJS, NEXTJS, FLASK(web framework)
- 	- Developed and designed projects which was built and deployed in React-Native
+ 	- Programming languages including: PYTHON, JAVASCRIPT, 
+  - Specialized in Google Cloud Platform
+  - Framework areas(frontend): React / Vue
+  - Framework areas(backend): Node.js - Django ORM
+  - Experienced in UI library:
+   - Meterial UI
+   - Ant Design
+   - Bootstrap / Vuetfy
+  - Competence in the microservice: Krakend Platform
+  - Working with container architecture: Docker/ Docker-Compose
+  - Cache Memory management: Redis
+  - Database: PostgreSql - MySql
+  - Able to translate complex text into easily readable material
+  - Confident building and optimising development processes
+  - Familiar with Agile and Scrum working methods
+  - Basic Level in Figma
   - Restfull API
- 	- Redux
-  - `Figma`
   - `Confluence, JIRA, Bitbucket`
- 	- GIT and GITHUB 
- 	- Familiar with Agile and Scrum working methods
  	- SDLC (Software Development Life Cycle)
- 	- Visual Studio / Jupiter Lab
- 	- Confident building and optimising development processes
 <hr>
 
 **Don't forget :**
