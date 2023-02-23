@@ -27,13 +27,35 @@ _Something about me:_
 <hr>
 
 **Don't forget :**
- > Every coder is an author
+
+> Every coder is an author
 
 <hr>
+
 <div>
+    <h3 font-weight="bold">Programming Language</h3>
+    <div align="left">
+        <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+        <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
+        <code><img alt="Nodejs" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png?20170401104355"/></code>
+    </div>
+    <!-- <h4 font-weight="bold">Back End</h4>
+    <div align="left">
+        <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/iconsexpress/express-original.svg"></code>
+        <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/iconsdjango/django-plain.svg"></code>
+        <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/iconspostgresql/postgresql-original.svg"></code>
+        <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/iconsgooglecloud/googlecloud-original.svg"></code>
+    </div>
+    <h4 font-weight="bold">Front End</h4>
+    <div align="left">
+        <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+        <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+    </div> -->
+<hr/>
+<div>
+   <h3>Talk to me</h3>
     <div>
         <ul>
-            <h2>Talk to me</h2>
             <li>
                 <a href="https://www.linkedin.com/in/sirius-star" target="_blank">
                 <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/sirius-star/" width="65px">
@@ -51,7 +73,5 @@ _Something about me:_
             </li>
         </ul>  
         <img src="Wv6FAwWy.jpg" height="400px"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius-Star42&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
     </div>       
 </div>
-
