@@ -2,7 +2,7 @@
 
 _Something about me:_
 
- <p ALIGN="justify"> A highly motivated Full Stack Engineer, developing a wide range of tools for backend and frontend, an Electronic Engineer graduate with a 3.2 GPA from Turkish Air Force Academy, currently resume my professional career after dedicating the last nine years to flying in service of air forces. Understanding the web app project lifecycle in depth and open to learning at all aspects of development from project planning to requirements gathering through to writing code, creating documentation and support.</p>
+ <p ALIGN="justify"> Results-driven Full Stack Developer with 5 years of hands-on experience building scalable, high-traffic applications and distributed systems, including 3 years in a Team Lead role. I’ve worked across the full development lifecycle, from designing system architecture and event-driven microservices to delivering production-ready cloud deployments. My experience includes building real-time telephony and CTI call center solutions, integrating enterprise platforms such as Zoho, Salesforce, and Zendesk, and developing high-throughput APIs, caching strategies, and asynchronous processing pipelines. As a Team Lead, I’ve also been responsible for guiding engineers, making technical decisions, improving development processes, and helping teams turn complex requirements into reliable products. I enjoy working on challenging technical problems, simplifying complex systems, and building software that remains reliable as traffic, data, and business requirements grow. </p>
  
 ## What I'm trying to learn and improve
  	- Programming languages including: PYTHON, JAVASCRIPT, 
@@ -14,6 +14,7 @@ _Something about me:_
     - - Ant Design
     - - Bootstrap / Vuetfy
   - Competence in the microservice: Krakend Platform
+  - Claude Code (RAG-Openhands Framework to build code agent)
   - Working with container architecture: Docker/ Docker-Compose
   - Cache Memory management: Redis
   - Database: PostgreSql - MySql
